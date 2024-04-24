@@ -1,1 +1,1 @@
-# Assignment_M1_Overview_IT
+this module is about overview of IT which include basic terminogies like what is network?, what is domain?, software architecture, software devlopment life cycle(SDLC) client server networking, types of software and graphical representation about DFD, flow-chart, use-case.# Assignment_M1_Overview_IT
